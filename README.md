@@ -50,5 +50,5 @@ This dashboard illustrates the following concepts:
 * Bring all the worksheets into the dashboard and align them neatly.
 * Make sure the worksheets interact with each other when values are changed.
   
-![Tableau Dashboard](Seattle house sales dashboard.png)
+![Tableau Dashboard]([Seattle house sales dashboard.png](https://github.com/KaavyaVarshitha/Seattle-House-Sales/blob/main/Seattle%20house%20sales%20dashboard.png)https://github.com/KaavyaVarshitha/Seattle-House-Sales/blob/main/Seattle%20house%20sales%20dashboard.png)
 
