@@ -43,12 +43,13 @@ This dashboard illustrates the following concepts:
 
 ## Data Visualization
 
-You can also use the [Power Apps CLI](https://docs.microsoft.com/powerapps/developer/data-platform/powerapps-cli) to pack the source code by following these steps::
+* Open Tableau-> profile->create a viz.
+* Import the `.xls` and load the data.
+* Create filters, line chart, map, histograms, heat map and calendar in seperate worksheets.
+* Select 'New Dashboard'.
+* Bring all the worksheets into the dashboard and align them neatly.
+* Make sure the worksheets interact with each other when values are changed.
+  
+![Tableau Dashboard](![image](https://github.com/KaavyaVarshitha/Seattle-House-Sales/assets/143062029/026301e4-0146-4fea-822d-75ed51a6a6ea)
+)  
 
-* Clone the repository to a local drive
-* Pack the source files back into `.msapp` file:
-  ```bash
-  pac canvas pack --sources pathtosourcefolder --msapp pathtomsapp
-  ```
-  Making sure to replace `pathtosourcefolder` to point to the path to this sample's `sourcecode` folder, and `pathtomsapp` to point to the path of this solution's `.msapp` file (located under the `solution` folder)
-* Use the `.msapp` file using **File** > **Open** > **Browse** in Power Apps Studio.
