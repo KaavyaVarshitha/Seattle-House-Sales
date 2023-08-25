@@ -52,3 +52,5 @@ This dashboard illustrates the following concepts:
 ## Tableau Dashboard  
 ![Tableau Dashboard](https://github.com/KaavyaVarshitha/Seattle-House-Sales/blob/main/Seattle%20house%20sales%20dashboard.png)
 
+## Dashboard Link
+(https://public.tableau.com/app/profile/kaavya.varshitha.raman.shantha/viz/SeattleHouseSales_16897732414660/SeattleHouseSales)
