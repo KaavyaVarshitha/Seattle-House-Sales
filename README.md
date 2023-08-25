@@ -39,7 +39,6 @@ This dashboard illustrates the following concepts:
 * Fix structural errors.
 * Ensure the data is formatted correctly.
 * Check for data consistency.
-* [Download](https://github.com/pnp/powerapps-samples/blob/main/samples/Timesheet/solution/WeeklyTimesheet.msapp) the `.xls` file from the solutions folder.
 
 ## Data Visualization
 
